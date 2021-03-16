@@ -5,4 +5,4 @@ I have used shared preferences package to keep user logged in flutter app by sav
 
 Output:
 
-![](name-of-giphy.gif)
+![](https://github.com/roshan-codes/keep-user-logged-in/blob/main/output.gif)
